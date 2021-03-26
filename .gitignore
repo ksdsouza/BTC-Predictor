@@ -1,2 +1,14 @@
 *.class
 *.log
+
+/target/
+/venv/
+/.idea/
+/*.iml
+
+/*.py
+/a1-*/
+/a3-*/
+/metastore_db/
+/model/
+/data/
